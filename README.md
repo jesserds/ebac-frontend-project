@@ -1,2 +1,2 @@
-# ebac-frontend-projetc
+# ebac-frontend-project
 A Git/Github Ebac FrontEnd Project
